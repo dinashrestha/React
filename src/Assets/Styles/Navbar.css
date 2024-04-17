@@ -1,0 +1,22 @@
+*{
+    text-decoration: none;
+    list-style: none;
+}
+
+.Nav{
+    background-color:rgb(229, 180, 106);
+   
+    /* margin-left: 20; */
+  
+    padding: 25px;
+    display: flex;
+    /* justify-content: space-between;  */
+
+    justify-content: end;
+
+    
+
+}
+ .Nav li{
+    padding-right: 10px;
+} 

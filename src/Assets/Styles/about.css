@@ -1,0 +1,97 @@
+
+.hole{
+    background:rgb(241, 229, 217);
+   height:636px;
+   
+     
+}
+.hhh{
+    margin-left: 200px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+   
+}
+.hhh p{
+    padding-left: 3%;
+}
+.hole h1{
+   text-align: center;
+  background-color: rgb(206, 168, 133);
+  color:white;
+}
+
+.hole h4{
+ margin-left: 15%;
+ font-size: x-large;
+ 
+ /* margin-top: 3% */
+}
+
+
+.body{
+    margin-left: 5%;
+width: 60%;
+font-family:'Times New Roman', Times, serif;}
+
+.momo{
+    display: flex;
+    
+}
+.imgg{
+    margin-left: 7%;
+}
+.hole img{
+    
+    height: 195px;
+
+    border-radius: 100%;
+}
+.bg{
+    color: red;
+    font-size: x-large;
+}
+/* .facebook  {
+    margin-top:5%;
+    margin-left:30%;
+}
+.insta{
+    margin-left:30%; 
+} */
+ .wholecircle{
+    display: flex;
+    flex-direction: row;
+    margin-left: 45%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+ }
+.circle1{
+    background-color: rgb(229, 137, 72);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+     
+}
+.circle1 p{
+    margin-left: 25px;
+    margin-top: 32px;
+}
+.circle2 p{
+    margin-left: 25px;
+    margin-top: 32px;
+}
+.circle2{
+    background-color: rgb(225, 147, 98);
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    
+    
+}
+.hole button{
+    margin-left: 47%;
+    height: 5%;
+    width:10%;
+    border-radius: 42%;
+    background-color:rgb(144, 20, 20);
+    color: white;
+}
