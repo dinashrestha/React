@@ -1,13 +1,13 @@
      .info{
-        background-color: rgb(236, 214, 180);
+        background-color: rgb(91, 125, 132);
         width: 304px;
         margin-top: 2%;
-        margin-left: 40%;
+         margin-left: 30%; 
     }
     .info input{
         height: 34px;
         width: 300px;
-        background-color: rgb(203, 154, 108);
+        background-color: rgb(138, 175, 199);
         border: none;
     }
     
@@ -22,7 +22,7 @@
         font-size: xx-large;
         font-weight: 600;
         text-align: center;
-        background-color: rgb(206, 146, 90);
+        background-color: rgb(115, 168, 185);
         color:white;
     }
     .btn {
@@ -31,9 +31,18 @@
     }
     .btn button{
     border-radius: 45%;
-    background-color: rgb(229, 180, 106);
+    background-color: #6abae5;
     }
 
-.contact{background-color: rgb(252, 223, 188);
+.contact{background-color: rgb(204, 223, 228);
     height: 500px;
+    
+   
 }
+.contact img{
+    position: absolute;
+    top:15%;
+    margin-left: 63%; 
+}
+
+

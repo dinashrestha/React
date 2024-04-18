@@ -1,5 +1,6 @@
 import React from 'react';
 import '../Assets/Styles/contact.css'
+import image from "../Assets/Images/contactusss.png";
 
 function Contact() {
   return (
@@ -23,12 +24,14 @@ function Contact() {
             {/* <div>Subject</div>
             <textarea class="textarea" name="subject" placeholder="Subject"></textarea> */}
         </div>
+        <img src={image}></img>
 
         <div class="btn" >
             <button onclick="isvalidcontact()">Submit</button>
             
         </div>
     </div>
+   
    
     </>
   );

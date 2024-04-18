@@ -1,11 +1,11 @@
 import React from 'react'
 import "../Assets/Styles/service.css";
 import image from "../Assets/Images/grap.png";
-import imgg from "../Assets/Images/web1.png";
+import imgg from "../Assets/Images/web.png";
 import product from "../Assets/Images/product.png";
-import blog from "../Assets/Images/blog.jpg";
+import blog from "../Assets/Images/blog.png";
 import social from"../Assets/Images/social.png";
-import photo from"../Assets/Images/photo.jpg";
+import photo from"../Assets/Images/photo.png";
 
 function Service() {
   return (

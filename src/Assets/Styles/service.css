@@ -1,5 +1,5 @@
 .main{
-    background-color:rgb(247, 235, 224) ;
+    background-color:rgb(232, 235, 235) ;
     padding-bottom:3%;
 }
 .heading{
@@ -7,7 +7,7 @@
     font-size: xx-large;
     font-weight: 600;
     text-align: center;
-    background-color: rgb(209, 145, 86);
+    background-color: rgb(122, 173, 188);
     color:white;
 }
 .heading h1{

@@ -1,6 +1,6 @@
 
 .hole{
-    background:rgb(241, 229, 217);
+    background:rgb(223, 227, 230);
    height:636px;
    
      
@@ -16,7 +16,7 @@
 }
 .hole h1{
    text-align: center;
-  background-color: rgb(206, 168, 133);
+  background-color: rgb(104, 164, 183);
   color:white;
 }
 
@@ -65,7 +65,7 @@ font-family:'Times New Roman', Times, serif;}
     margin-bottom: 5%;
  }
 .circle1{
-    background-color: rgb(229, 137, 72);
+    background-color: rgb(110, 185, 204);
     width: 100px;
     height: 100px;
     border-radius: 50%;
@@ -80,7 +80,7 @@ font-family:'Times New Roman', Times, serif;}
     margin-top: 32px;
 }
 .circle2{
-    background-color: rgb(225, 147, 98);
+    background-color: rgb(111, 190, 204);
     width: 100px;
     height: 100px;
     border-radius: 50%;
